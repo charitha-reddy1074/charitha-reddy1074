@@ -103,13 +103,11 @@
 #### Stats
 <a href="https://github-readme-stats.anuraghazra1.vercel.app">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=charitha-reddy1074&show_icons=true&include_all_commits=true&theme=onedark" alt="Charitha's github stats" />
-</a>
+</a> <br><br><br>
 <a href="https://github-readme-stats.anuraghazra1.vercel.app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=charitha-reddy1074&layout=compact&theme=onedark" />
 </a>
-<br />
-<br />
 
 <!--#### Contribution Graph
 [![Charitha Reddy's github activity graph](https://activity-graph.herokuapp.com/graph?username=charitha-reddy1074&theme=react-dark)](https://github.com/charitha-reddy1074/github-readme-activity-graph)-->
