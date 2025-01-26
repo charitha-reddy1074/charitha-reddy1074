@@ -23,8 +23,8 @@
   </table>
 </div>
 
- <h3 style = "align: center;" >Languages & Dev</h3>
-  <p style = "align: center;">
+ <h3 align = "center" >Languages & Dev</h3>
+  <p align = "center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -43,24 +43,24 @@
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   </p>
   
-  <h3>Cloud</h3>
-  <p>
+  <h3 align = "center">Cloud</h3>
+  <p align = "center">
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
   </p>
   
-  <h3>Design & Game Dev</h3>
-  <p>
+  <h3 align = "center">Design & Game Dev</h3>
+  <p align = "center">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
     <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white">
   </p>
   
-  <h3>Competitive Programming</h3>
-  <p>
+  <h3 align = "center">Competitive Programming</h3>
+  <p align = "center">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
@@ -87,7 +87,7 @@
 
 #### TrophyVault
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitha-reddy1074&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Charixel"></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitha-reddy1074&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Charixel"></a></p>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
