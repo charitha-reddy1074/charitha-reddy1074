@@ -75,9 +75,14 @@
 
 <a href="https://github.com/charitha-reddy1074/banking_application"></a>
 
-#### Trophies
+#### TrophyVault
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitha-reddy1074&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Charixel"></a></p>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+  </picture>
 
 #### Stats
 <a href="https://github-readme-stats.anuraghazra1.vercel.app">
