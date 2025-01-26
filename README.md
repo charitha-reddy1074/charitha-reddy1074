@@ -89,9 +89,6 @@
 </a>
 <br />
 <br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
-</p>
 
 <!--#### Contribution Graph
 [![Charitha Reddy's github activity graph](https://activity-graph.herokuapp.com/graph?username=charitha-reddy1074&theme=react-dark)](https://github.com/charitha-reddy1074/github-readme-activity-graph)-->
