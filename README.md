@@ -73,26 +73,32 @@
  > 
 > 🔑 200+ Contribution in Private Repos
  > -->
-
-#### Popular Projects
-<a href="https://github.com/charitha-reddy1074/face_recognition_access_control"></a>   
-
-<a href="https://github.com/charitha-reddy1074/online_diagnostic_lab_reporting_system"></a>
-
-<a href="https://github.com/charitha-reddy1074/MLSA_Task"></a>
-
-<a href="https://github.com/charitha-reddy1074/car_prediction_model"></a>
-
-<a href="https://github.com/charitha-reddy1074/banking_application"></a>
-
-#### TrophyVault
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitha-reddy1074&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Charixel"></a></p>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
-  </picture>
+</picture>
+
+#### Popular Projects
+
+- [Face Recognition Access Control](https://github.com/charitha-reddy1074/face_recognition_access_control)
+  - A project that uses face recognition technology to control access to secure areas.
+  
+- [Online Diagnostic Lab Reporting System](https://github.com/charitha-reddy1074/online_diagnostic_lab_reporting_system)
+  - A web application for managing and reporting diagnostic lab results.
+  
+- [MLSA Task](https://github.com/charitha-reddy1074/MLSA_Task)
+  - A collection of tasks and projects completed as part of the Microsoft Learn Student Ambassador program.
+  
+- [Car Prediction Model](https://github.com/charitha-reddy1074/car_prediction_model)
+  - A machine learning model to predict car prices based on various features.
+  
+- [Banking Application](https://github.com/charitha-reddy1074/banking_application)
+  - A banking application that provides various banking services to users.
+
+#### TrophyVault
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitha-reddy1074&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Charixel"></a></p>
+
 
 #### Stats
 <a href="https://github-readme-stats.anuraghazra1.vercel.app">
