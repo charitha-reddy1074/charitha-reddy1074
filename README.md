@@ -5,15 +5,14 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+web+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
 <p>I am a AIML Enthusiast, I'm a Competitive Programmer, I also like to create AI Based projects.</p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="500">
 <br><br>
 <div align="center">
-  <table>
-    <tr>
-      <td>
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
         <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
       </td>
-      <td>
+      <td style="border: none;">
         <ul align="left">
           <li>👋 Hi, I’m @Charixel</li>
           <li>❤️ I love creating AI and ML Apps using Python | working on Cloud | Programming in Python, Java, C.</li>
