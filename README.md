@@ -64,7 +64,8 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
-    <img src="https://img.shields.io/badge/codedex-%23964B00.svg?style=for-the-badge&logo=codedex&logoColor=white">
+   <img src="https://img.shields.io/badge/Codedex-FF6F61?style=for-the-badge&logo=codedex&logoColor=white">
+
   </p>
 
 <!--#### My GitHub Data :octocat:
