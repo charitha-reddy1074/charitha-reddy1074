@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Charitha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%26%20RAG%20%7C%20Python%20Developer&descAlignY=58&descSize=18" width="100%"/>
+# Hi There, I'm Charitha 👋
+### AI Engineer &nbsp;|&nbsp; LLMs &amp; RAG &nbsp;|&nbsp; Python Developer
+
+<br/>
 
 <a href="https://www.linkedin.com/in/pebbeticharitha-reddy-839257286">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,7 +20,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Generative+AI+%26+LLM+products;Working+with+LangChain+%2B+RAG+pipelines;Designing+AI+Agents+for+real+businesses;GATE+Qualified+(CSIT+%26+DSAI)+%7C+9.24+CGPA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Generative+AI+%26+LLM+products;Working+with+LangChain+%2B+RAG+pipelines;Designing+AI+Agents+for+real+businesses;Mentoring+100%2B+students+in+tech" alt="Typing SVG" />
 
 </div>
 
@@ -30,8 +33,6 @@ name:        Pebbeti Charitha Reddy
 role:        AI Engineer @ CoreTek Labs
 focus:       Generative AI · LLMs · RAG · AI Agents
 location:    Hyderabad, Telangana, India
-education:   B.Tech CSE (AI & ML), Malla Reddy University — CGPA 9.24/10
-credentials: GATE Qualified — CSIT & DSAI
 leadership:  President, Microsoft Learn Student Club (100+ member community)
 currently:   Building an end-to-end Cyber Assessment Generation platform (RAG)
 ```
@@ -193,7 +194,5 @@ Face recognition system for controlling access to secure areas.
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=100&section=footer" width="100%"/>
 
 </div>
