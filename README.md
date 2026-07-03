@@ -1,115 +1,199 @@
-<p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com//charitha-reddy1074/">Charitha Reddy</a>'s Profile 👋</h1>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+AI+Engineer;I'm+a+competitive+programmer;I'm+a+developer" /></a>
-</p>
-<p>I am a AIML Enthusiast, I'm a Competitive Programmer, I also like to create AI Based projects.</p>
-<br><br>
 <div align="center">
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
-      </td>
-      <td style="border: none;">
-        <ul align="left">
-          <li>👋 Hi, I’m @Charixel</li>
-          <li>❤️ I love creating AI and ML Apps using Python | working on Cloud | Programming in Python, Java, C.</li>
-          <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
 
- <h3 align = "center" >Languages & Dev</h3>
-  <p align = "center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  </p>
-  
-  <h3 align = "center">Cloud</h3>
-  <p align = "center">
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
-  </p>
-  
-  <h3 align = "center">Design & Game Dev</h3>
-  <p align = "center">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-    <img src="https://img.shields.io/badge/codedex-%23964B00.svg?style=for-the-badge&logo=codedex&logoColor=white">
-  </p>
-  
-  <h3 align = "center">Competitive Programming</h3>
-  <p align = "center">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
-   <img src="https://img.shields.io/badge/Codedex-FF6F61?style=for-the-badge&logo=codedex&logoColor=white">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Charitha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%26%20RAG%20%7C%20Python%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-  </p>
-
-<!--#### My GitHub Data :octocat:
-> 🏆 100+ Contributions in a Year
- > 
-> 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
- > -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
-</picture>
-
-#### Popular Projects
-
-- [Face Recognition Access Control](https://github.com/charitha-reddy1074/face_recognition_access_control)
-  - A project that uses face recognition technology to control access to secure areas.
-  
-- [Online Diagnostic Lab Reporting System](https://github.com/charitha-reddy1074/online_diagnostic_lab_reporting_system)
-  - A web application for managing and reporting diagnostic lab results.
-  
-- [MLSA Task](https://github.com/charitha-reddy1074/MLSA_Task)
-  - A collection of tasks and projects completed as part of the Microsoft Learn Student Ambassador program.
-  
-- [Car Prediction Model](https://github.com/charitha-reddy1074/car_prediction_model)
-  - A machine learning model to predict car prices based on various features.
-  
-- [Banking Application](https://github.com/charitha-reddy1074/banking_application)
-  - A banking application that provides various banking services to users.
-
-#### TrophyVault
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitha-reddy1074&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Charixel"></a></p>
-
-
-#### Stats
-<a href="https://github-readme-stats.anuraghazra1.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charitha-reddy1074&show_icons=true&include_all_commits=true&theme=onedark" alt="Charitha's github stats" />
-</a> <br>
-<a href="https://github-readme-stats.anuraghazra1..vercel.app">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charitha-reddy1074&layout=compact&theme=onedark" />
+<a href="https://www.linkedin.com/in/pebbeticharitha-reddy-839257286">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:charithareddy1074@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://v0-futuristic-websitetemplate-56c08v5wb.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/charitha-reddy1074">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!--#### Contribution Graph
-[![Charitha Reddy's github activity graph](https://activity-graph.herokuapp.com/graph?username=charitha-reddy1074&theme=react-dark)](https://github.com/charitha-reddy1074/github-readme-activity-graph)-->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Generative+AI+%26+LLM+products;Working+with+LangChain+%2B+RAG+pipelines;Designing+AI+Agents+for+real+businesses;GATE+Qualified+(CSIT+%26+DSAI)+%7C+9.24+CGPA" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 👩‍💻 About Me
+
+```yaml
+name:        Pebbeti Charitha Reddy
+role:        AI Engineer @ CoreTek Labs
+focus:       Generative AI · LLMs · RAG · AI Agents
+location:    Hyderabad, Telangana, India
+education:   B.Tech CSE (AI & ML), Malla Reddy University — CGPA 9.24/10
+credentials: GATE Qualified — CSIT & DSAI
+leadership:  President, Microsoft Learn Student Club (100+ member community)
+currently:   Building an end-to-end Cyber Assessment Generation platform (RAG)
+```
+
+- 🔭 Currently engineering a **RAG-powered Cyber Assessment Generation product** at CoreTek Labs
+- 🌱 Deepening expertise in **AI Agent development**, **Azure MLOps**, and multi-agent workflows
+- 📝 Published researcher — *AI-Based Decentralized Credential Verification System Using Blockchain* (IJRASET)
+- 🎤 Mentoring 100+ students as **President, Microsoft Learn Student Club (MLSA Beta)**
+- 💬 Ask me about **LangChain, RAG pipelines, LLM apps, or Generative AI**
+
+<br/>
+
+## 🧰 Tech Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+**AI / Machine Learning**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-00A67E?style=flat-square"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Cloud & MLOps**
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+**Data & Web3**
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Smart_Contracts-121D33?style=flat-square"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Cyber Assessment Generation Platform](https://github.com/charitha-reddy1074)
+End-to-end AI product with a **RAG backend** that ingests security frameworks, auto-generates assessment questionnaires, pre-fills responses from engagement docs, and produces final reports.
+
+`RAG` `LangChain` `LLM` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ [Decentralized Credential Verification](https://github.com/charitha-reddy1074)
+Tamper-proof credential verification on **Ethereum** using smart contracts, MetaMask, and the **HPCAE** algorithm for dimensionality reduction. Published in **IJRASET**.
+
+`Blockchain` `Solidity` `MetaMask` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [NCERT-Based Learning System (RAG)](https://github.com/charitha-reddy1074)
+A RAG-powered study assistant over NCERT curriculum content — combines vector retrieval with an LLM for accurate, context-grounded answers.
+
+`RAG` `Vector DB` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ [Multimodal Conversational Agent (Telugu)](https://github.com/charitha-reddy1074)
+Real-time multilingual assistant integrating **Wav2Vec2** speech-to-text, an LLM, text-to-speech, and image-to-text — 90%+ contextual accuracy in Telugu.
+
+`Wav2Vec2` `LLM` `Speech AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Neural Style Transfer](https://github.com/charitha-reddy1074)
+CNN-based neural style transfer blending the content of one image with the artistic style of another.
+
+`CNN` `Computer Vision` `Deep Learning`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Face Recognition Access Control](https://github.com/charitha-reddy1074/face_recognition_access_control)
+Face recognition system for controlling access to secure areas.
+
+`OpenCV` `Computer Vision` `Python`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+- 🩺 [Online Diagnostic Lab Reporting System](https://github.com/charitha-reddy1074/online_diagnostic_lab_reporting_system) — web app for managing and reporting diagnostic lab results
+- 🚗 [Car Prediction Model](https://github.com/charitha-reddy1074/car_prediction_model) — ML model predicting car prices from key features
+- 🏦 [Banking Application](https://github.com/charitha-reddy1074/banking_application) — full-stack banking services application
+- 🎓 [MLSA Task](https://github.com/charitha-reddy1074/MLSA_Task) — projects from the Microsoft Learn Student Ambassador program
+
+</details>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=charitha-reddy1074&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=6366F1&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charitha-reddy1074&layout=compact&hide_border=true&theme=tokyonight&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=charitha-reddy1074&hide_border=true&theme=tokyonight&background=0d1117&ring=6366F1&fire=EC4899&currStreakLabel=6366F1"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=charitha-reddy1074&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 Leadership & Recognition
+
+- 🎓 **President**, Microsoft Learn Student Club (MLSA Beta), Malla Reddy University — leading a 100+ member technical community, organizing workshops on Microsoft AI technologies
+- 🌐 **Microsoft Learn Student Ambassador**, Alpha & Beta — hosted public and technical events
+- 📜 100+ Microsoft Learn courses completed — **112 badges, 21 trophies**
+- 📄 Certified Salesforce.com Developer · Google Cloud Computing Foundations · Prompt Design in Vertex AI
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect
+
+<a href="https://www.linkedin.com/in/pebbeticharitha-reddy-839257286">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:charithareddy1074@gmail.com">
+  <img src="https://img.shields.io/badge/Say_Hello-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=100&section=footer" width="100%"/>
+
+</div>
